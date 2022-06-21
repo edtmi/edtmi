@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Eduardo Miyazaki and I'm a Engineer Front-end, from Brazil.</p>
+<p align="left">My name is Eduardo Miyazaki and I'm a Front-end Engineer, from Brazil.</p>
 
 ###
 
