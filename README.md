@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://github.com/edtmi/edtmi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
