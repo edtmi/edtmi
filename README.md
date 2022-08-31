@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📢 Nickname: Miauzaki.<br>📚 I'm currently learning Python.<br>🎯 Goals: TypeScript, HTML, CSS, React, Node.js, Docker, SQL, MongoDb, PostgreSQL, Express, Mocha and Sequelize.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📢 Nickname: Miauzaki.<br>📚 I'm currently learning Python.<br>🎯 Techonologies: TypeScript, HTML, CSS, React, Node.js, Docker, SQL, MongoDb, PostgreSQL, Express, Mocha and Sequelize.</p>
 
 <br>
 
